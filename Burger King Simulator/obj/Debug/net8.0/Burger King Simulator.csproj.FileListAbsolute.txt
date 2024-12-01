@@ -1,0 +1,14 @@
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/bin/Debug/net8.0/Burger King Simulator
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/bin/Debug/net8.0/Burger King Simulator.deps.json
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/bin/Debug/net8.0/Burger King Simulator.runtimeconfig.json
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/bin/Debug/net8.0/Burger King Simulator.dll
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/bin/Debug/net8.0/Burger King Simulator.pdb
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/Burger King Simulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/Burger King Simulator.AssemblyInfoInputs.cache
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/Burger King Simulator.AssemblyInfo.cs
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/Burger King Simulator.csproj.CoreCompileInputs.cache
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/Burger King Simulator.dll
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/refint/Burger King Simulator.dll
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/Burger King Simulator.pdb
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/Burger King Simulator.genruntimeconfig.cache
+/Users/finlayweekes/Documents/Vs/Burger King Simulator/Burger King Simulator/Burger King Simulator/obj/Debug/net8.0/ref/Burger King Simulator.dll
