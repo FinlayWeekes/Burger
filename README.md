@@ -1,4 +1,4 @@
 made by weekseh
 
-- [!IMPORTANT] credits
-- = fayaz
+> [!IMPORTANT]
+> fayaz
