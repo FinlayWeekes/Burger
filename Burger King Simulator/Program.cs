@@ -55,7 +55,7 @@ public class MainBurger
                         Console.ReadLine();
                         Console.Write("{0} we might be able to get out.", cashier);
                         Console.ReadLine();
-                        Console.Write("You ask thier name");
+                        Console.Write("You ask their name");
                         Console.ReadLine();
                         cashier = "\u001b[33mMulberry- \u001b[0m";
                         Console.Write("{0} \u001b[33mMulberry Marshal\u001b[0m", cashier);
@@ -359,7 +359,7 @@ public class MainBurger
                         Console.ReadLine();
                         Console.Write("one prisoner is on the floor with another stood over him with a \u001b[33mshank\u001b[0m.");
                         Console.ReadLine();
-                        Console.Write("They start shouting and you can make out thier names,");
+                        Console.Write("They start shouting and you can make out their names,");
                         Console.ReadLine();
                         Console.Write("the prisoner on the floor is named \u001b[33mJenson\u001b[0m,");
                         Console.ReadLine();
@@ -555,7 +555,7 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("{0} You have been banned from entering a \u001b[34mBurger King\u001b[0m ever again.", cashier);
         Console.ReadLine();
-        Console.Write("You see on thier nametag that they are named \u001b[33mGeorge\u001b[0m");
+        Console.Write("You see on their nametag that they are named \u001b[33mGeorge\u001b[0m");
         Console.ReadLine();
         do
         {
@@ -664,13 +664,13 @@ public class MainBurger
         Console.ReadLine();
         Console.Write("The first table has \u001b[33mthree people\u001b[0m sitting on it,");
         Console.ReadLine();
-        Console.Write("you overhear thier names are");
+        Console.Write("you overhear their names are");
         Console.ReadLine();
         Console.Write("\u001b[33mBenny\u001b[0m, \u001b[33mFayaz\u001b[0m and \u001b[33mRudy\u001b[0m.");
         Console.ReadLine();
         Console.Write("The second table also has \u001b[33mthree people\u001b[0m sitting on it,");
         Console.ReadLine();
-        Console.Write("you overhear thier names are");
+        Console.Write("you overhear their names are");
         Console.ReadLine();
         Console.Write("\u001b[33mDaniel\u001b[0m, \u001b[33mHarry Woods\u001b[0m and \u001b[33mQuoc\u001b[0m.");
         Console.ReadLine();
